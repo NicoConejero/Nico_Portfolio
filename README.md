@@ -1,6 +1,6 @@
 # Nico_Portfolio
 
-## Project_1 Analyzing different aspects of Diabetes Jul'22 ##
+## [Project_1 Analyzing different aspects of Diabetes Jul'22](https://github.com/NicoConejero/Academic_ePortfolio_FoundationsDataScience) ##
 
 **Course Foundations for Data Science**
 
