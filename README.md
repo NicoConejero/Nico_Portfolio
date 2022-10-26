@@ -25,3 +25,4 @@ This project involves analyzing different aspects of Diabetes in the Pima Indian
 
 - PCA, t-sne, Clustering
  
+![](https://github.com/NicoConejero/Nico_Portfolio/blob/main/images/Project_2.png)
