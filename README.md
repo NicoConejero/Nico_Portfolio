@@ -19,3 +19,4 @@ This project involves analyzing different aspects of Diabetes in the Pima Indian
 **Skills and Tools**
 
 - PCA, t-sne, Clustering
+ 
