@@ -1,4 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
+gem "github-pages", group: :jekyll_plugins
 
 
 # Nico_Portfolio
