@@ -10,7 +10,7 @@ This project involves analyzing different aspects of Diabetes in the Pima Indian
 
 - Exploratory Data Analysis, Data Visualization, Statistics
  
-## Project_2 Applying dimensionality reduction on the Auto-mpg dataset and segmenting bank customers Sep'22 ##
+## [Project_2 Applying dimensionality reduction on the Auto-mpg dataset and segmenting bank customers Sep'22](https://github.com/NicoConejero/Academic_ePortfolio_DimensionalityReduction-Clustering) ##
 
 **Course Data Analysis & Visualization**
 
