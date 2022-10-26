@@ -11,7 +11,7 @@ This project involves analyzing different aspects of Diabetes in the Pima Indian
 - Exploratory Data Analysis, Data Visualization, Statistics
 
 
-![](https://github.com/NicoConejero/Nico_Portfolio/blob/main/images/Project_1.png)
+![](/images/Project_1.png)
 
 
  
@@ -25,4 +25,4 @@ This project involves analyzing different aspects of Diabetes in the Pima Indian
 
 - PCA, t-sne, Clustering
  
-![](https://github.com/NicoConejero/Nico_Portfolio/blob/main/images/Project_2.png)
+![](/images/Project_2.png)
