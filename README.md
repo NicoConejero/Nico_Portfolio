@@ -1,6 +1,6 @@
 # Nico_Portfolio
 
-## Analyzing different aspects of Diabetes Jul'22 ##
+## Project_1 Analyzing different aspects of Diabetes Jul'22 ##
 
 **Course Foundations for Data Science**
 
@@ -10,7 +10,7 @@ This project involves analyzing different aspects of Diabetes in the Pima Indian
 
 - Exploratory Data Analysis, Data Visualization, Statistics
  
-## Applying dimensionality reduction on the Auto-mpg dataset and segmenting bank customers Sep'22 ##
+## Project_2 Applying dimensionality reduction on the Auto-mpg dataset and segmenting bank customers Sep'22 ##
 
 **Course Data Analysis & Visualization**
 
