@@ -9,6 +9,11 @@ This project involves analyzing different aspects of Diabetes in the Pima Indian
 **Skills and Tools**
 
 - Exploratory Data Analysis, Data Visualization, Statistics
+
+
+![](https://github.com/NicoConejero/Nico_Portfolio/blob/main/images/Project_1.png)
+
+
  
 ## [Project_2 Applying dimensionality reduction on the Auto-mpg dataset and segmenting bank customers Sep'22](https://github.com/NicoConejero/Academic_ePortfolio_DimensionalityReduction-Clustering) ##
 
