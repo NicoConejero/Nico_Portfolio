@@ -1,3 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+
+
 # Nico_Portfolio
 
 ## [Project_1 Analyzing different aspects of Diabetes Jul'22](https://github.com/NicoConejero/Academic_ePortfolio_FoundationsDataScience) ##
